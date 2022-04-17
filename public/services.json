@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Photographer processing",
+        "price": "300",
+        "description": "my mission is to provide you with prompt & experience, or answering any questions you may have.",
+        "img": "https://i.ibb.co/58SLQSY/the-climate-reality-project-Hb6u-Wq0i4-MI-unsplash-1-1-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Vanilla bear",
+        "price": "100",
+        "description": "From simple troubleshooting to long-term guidance, we’re here to help. Call our dedicated UK Customer Support helpline on +44 (0)20 7674 0300",
+        "img": "https://i.ibb.co/3WjnhPc/cowomen-UUPpu2s-YV6-E-unsplash.png"
+    },
+    {
+        "id": 3,
+        "name": "Cowomen",
+        "price": "150",
+        "description": "Please review the training schedule below or contact your Customer Success Manager or Account Manager to discuss your needs further..",
+        "img": "https://i.ibb.co/xXDLjmB/vanilla-bear-films-JEw-NQerg3-Hs-unsplash-3-1.png"
+    },
+    {
+        "id": 4,
+        "name": "Climate reality",
+        "price": "180",
+        "description": "You can search and advertise for a range of journalism and PR vacancies with us, whether it’s a permanent, contract or freelance position..",
+        "img": "https://i.ibb.co/HqVRpZB/sigmund-Ax-APu-IRWHGk-unsplash.png"
+    },
+    {
+        "id": 5,
+        "name": "Smiling influncer",
+        "price": "100",
+        "description": "You can search and advertise for a range of journalism and PR vacancies with us",
+        "img": "https://i.ibb.co/7yYXdP7/sigmund-AQTA5-E6m-CNU-unsplash.png"
+    },
+    {
+        "id": 6,
+        "name": "COMPLETE ANALYSIS",
+        "price": "300",
+        "description": "You can request anything - from expert comments, to case studies, as well as images, interviews, products to review, press trips, information and even competition prizes.",
+        "img": "https://i.ibb.co/QYXfJZz/cowomen-Qziao-ZM0-M44-unsplash.png"
+    }
+]
