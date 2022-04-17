@@ -14,7 +14,7 @@ useEffect( ()=>{
     return (
         <div className='container'>
             <div className='row'>
-            <h2 className='services-title mt-5'> Services</h2>
+            <h2 className='services-title mt-5'>My Services</h2>
             <div className='services-container'>
             {
               services.map(service => <Service
