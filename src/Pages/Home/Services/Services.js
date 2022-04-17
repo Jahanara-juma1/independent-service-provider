@@ -12,7 +12,8 @@ useEffect( ()=>{
 }, [])
 
     return (
-        <div>
+        <div className='container'>
+            <div className='row'>
             <h2 className='services-title mt-5'> Services</h2>
             <div className='services-container'>
             {
@@ -21,6 +22,7 @@ useEffect( ()=>{
                  service={service}
               ></Service>)  
             }
+            </div>
             </div>
         </div>
     );

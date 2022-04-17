@@ -50,8 +50,4 @@ const Banner = () => {
     );
 }
 
-// render(<ControlledCarousel />);
-    
-
-
 export default Banner;
