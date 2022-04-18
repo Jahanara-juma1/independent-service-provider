@@ -28,6 +28,9 @@ const [agree,setAgree] = useState(false);
     if(user){
         console.log('user', user)
     }
+    if(error){
+        console.log(error);
+    }
 
     const handleRegister = async (event) =>{
         event.preventDefault();
