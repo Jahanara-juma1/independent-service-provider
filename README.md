@@ -1,8 +1,21 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Independent-Service-Provider](https://independent-service-prov-9bebb.web.app/).
 
-## Available Scripts
+## Documention
+* Home part
+* Blogs part
+* Register part
+* Login part and
+* Footer part .
+
+## Framework use
+* React Router
+* React Bootstarp
+* Vanella Css
+* react firebase hooke and
+* React Toast uses.
+
 
 In the project directory, you can run:
 
